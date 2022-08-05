@@ -134,4 +134,7 @@ export default {
 </script>
 
 <style scoped>
+   label.radio {
+        margin-right: 1rem;
+    }
 </style>
